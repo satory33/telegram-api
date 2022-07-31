@@ -1,5 +1,5 @@
 # telegram-api
-Easy telegram API without libraries
+Easy telegram API without libraries PHP
 
 <br>
 *TOKEN* = you're token (https://t.me/botfather)<br>

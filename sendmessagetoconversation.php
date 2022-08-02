@@ -11,6 +11,5 @@ $result_curl = json_decode(curl_exec($curl), true);
 $error_curl = curl_error($curl);
 if(isset($result_curl)) {
 curl_close($curl);
-mysqli_close($link);
 }
 ?>
